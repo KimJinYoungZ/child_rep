@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 qwdqwd
+=======
+asdf
+
+sasa
+>>>>>>> 987cc474ce2f51b265cc7ce6c2111077bd8305ae
